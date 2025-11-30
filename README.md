@@ -68,4 +68,4 @@ SHOW TABLES;
 
 ### Задание 2
 
-![Скриншот 4](img/img04(new).png)
+![Скриншот 4](img/img04.png)
